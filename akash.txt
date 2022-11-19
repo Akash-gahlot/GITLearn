@@ -1,0 +1,3 @@
+hi my name is akash
+i am learning about git version control and the commands used in GIT
+
